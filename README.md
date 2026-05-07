@@ -8,9 +8,9 @@ A machine learning project that predicts grouped hospital stay duration categori
 
 This project aims to predict whether a patient will require:
 
-* 🟢 Short Stay
-* 🟡 Medium Stay
-* 🔴 Long Stay
+- 🟢 Short Stay
+- 🟡 Medium Stay
+- 🔴 Long Stay
 
 The project uses structured healthcare data and applies preprocessing, feature engineering, imbalance handling, and machine learning techniques to build an accurate prediction system.
 
@@ -30,24 +30,24 @@ The project uses structured healthcare data and applies preprocessing, feature e
 
 # 🧠 Machine Learning Pipeline
 
-* Data Cleaning
-* Missing Value Handling
-* Ordinal & Label Encoding
-* Exploratory Data Analysis (EDA)
-* SMOTE for Class Balancing
-* Feature Engineering
-* Hyperparameter Tuning
-* Class Grouping Strategy
-* XGBoost Training
+- Data Cleaning
+- Missing Value Handling
+- Ordinal & Label Encoding
+- Exploratory Data Analysis (EDA)
+- SMOTE for Class Balancing
+- Feature Engineering
+- Hyperparameter Tuning
+- Class Grouping Strategy
+- XGBoost Training
 
 ---
 
 # 📊 Models Tested
 
-* Random Forest
-* XGBoost
-* CatBoost
-* Deep Neural Network (DNN)
+- Random Forest
+- XGBoost
+- CatBoost
+- Deep Neural Network (DNN)
 
 ---
 
@@ -57,9 +57,9 @@ The original dataset contained 11 highly overlapping target classes.
 
 To improve prediction quality, hospital stay durations were grouped into:
 
-* Short Stay
-* Medium Stay
-* Long Stay
+- Short Stay
+- Medium Stay
+- Long Stay
 
 This significantly improved model performance and reduced class confusion.
 
@@ -95,16 +95,16 @@ streamlit run app.py
 
 # 🛠️ Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* XGBoost
-* CatBoost
-* TensorFlow / Keras
-* Streamlit
-* Matplotlib
-* Seaborn
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- CatBoost
+- TensorFlow / Keras
+- Streamlit
+- Matplotlib
+- Seaborn
 
 ---
 
