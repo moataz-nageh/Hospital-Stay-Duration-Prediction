@@ -113,11 +113,16 @@ streamlit run app.py
 ```plaintext
 Hospital-Stay-Duration-Prediction/
 │
+├── dataset/
+├── screenshots/
+│
 ├── app.py
 ├── hospital_stay_model.pkl
 ├── Hospital_Stay_Prediction.ipynb
 ├── requirements.txt
 ├── README.md
+├── .gitignore
+
 ```
 
 ---
