@@ -77,7 +77,6 @@ streamlit run app.py
 
 ---
 
-# 📷 Screenshots
 
 ## Streamlit UI
 
